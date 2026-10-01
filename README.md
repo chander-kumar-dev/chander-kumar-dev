@@ -6,8 +6,7 @@ M.Sc. student at TU Ilmenau · open to full-time roles in Germany from Nov 2026
 with retry/idempotency/reconciliation, and production releases in regulated environments.
 
 **Featured**
-- [loan-disbursement-service](link) – Clean Architecture service showing exactly-once
-  disbursement under CBS timeouts, outbox pattern, reconciliation, Testcontainers tests
+- [urdu-dictionary-autocomplete](https://github.com/chander-kumar-dev/urdu-dictionary-autocomplete) – Fast Urdu prefix search and autocomplete over ~149k words using a Trie
 
 **Stack:** C#, .NET 8/9, ASP.NET Core, EF Core, SQL Server, xUnit, Docker, GitHub Actions, Angular
 
