@@ -1,16 +1,14 @@
-## Hi there 👋
+### Chander Kumar
+Backend engineer (C# / .NET) · 5 years building digital lending platforms deployed at banks
+M.Sc. student at TU Ilmenau · open to full-time roles in Germany from Nov 2026
 
-<!--
-**chander-kumar-dev/chander-kumar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**What I work on:** ASP.NET Core APIs, SQL Server & EF Core, core banking integrations
+with retry/idempotency/reconciliation, and production releases in regulated environments.
 
-Here are some ideas to get you started:
+**Featured**
+- [loan-disbursement-service](link) – Clean Architecture service showing exactly-once
+  disbursement under CBS timeouts, outbox pattern, reconciliation, Testcontainers tests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** C#, .NET 8/9, ASP.NET Core, EF Core, SQL Server, xUnit, Docker, GitHub Actions, Angular
+
+[LinkedIn](https://www.linkedin.com/in/chander-kumar-dev) · chander.kumarr1@gmail.com
